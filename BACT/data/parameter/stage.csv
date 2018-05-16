@@ -1,0 +1,8 @@
+ステージ名,背景画像ディレクトリ,スクロールスピード,ボス番号,ボス出現フレーム
+チュートリアル 大腸,data/img/back/daicho.png,1,9,2000
+ステージ1 小腸,data/img/back/daicho.png,3,10,2000
+ステージ2 肝臓,data/img/back/kanzo.png,5,11,2000
+ステージ3 胃,data/img/back/i.png,7,12,2000
+ステージ4 肺,data/img/back/hai.png,9,14,2000
+ステージ5 心臓,data/img/back/shinzo.png,45,15,2000
+ステージ6 脳,data/img/back/no.png,13,16,2000

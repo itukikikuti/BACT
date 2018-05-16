@@ -1,0 +1,15 @@
+通常の画像,当たった時の画像,発射、当たった時の効果音,武器の名前,武器の説明1,武器の説明2,弾薬最大数,持続時間,消滅時間,通常の攻撃力,消滅時の攻撃力,同時発射数,発射待ち時間,初期半径,初期半径のぶれ,初期速度,初期速度のぶれ,初期角度,初期角度のぶれ,通常時の半径の変化,通常時の速度の変化,通常時の角度の変化,消滅時半径,消滅時半径のぶれ,消滅時速度,消滅時速度のぶれ,消滅時角度,消滅時角度のぶれ,消滅時の半径の変化,消滅時の速度の変化,消滅時の角度の変化
+data/img/bullet/shotNormal.png,data/img/bullet/shotHit.png,data/sound/bullet/shot.wav,ショット,弾を飛び散らせる,弾は素早いが射程は低い,200,5,5,10,10,5,30,32,0,40,10,0,50,0,0,0,60,0,5,0,0,0,-12,0,0
+data/img/bullet/laserNormal.png,data/img/bullet/laserHit.png,data/sound/bullet/laser.wav,ライフル,ものすごい威力の弾を飛ばす,弾の小ささがネック,100,30,5,200,100,1,30,16,0,70,0,0,0,0,0,0,50,0,0,0,0,0,-5,0,0
+data/img/bullet/gatlingNormal.png,data/img/bullet/gatlingHit.png,data/sound/bullet/gatling.wav,ガトリング,素早く弾を連射できる,威力は低い,500,20,10,10,10,1,15,32,5,30,5,0,5,0,0,0,60,0,10,0,0,0,-6,-1,0
+data/img/bullet/bazookaNormal.png,data/img/bullet/bazookaHit.png,data/sound/bullet/bazooka.wav,バズーカ,高威力の弾を飛ばす,しかし速度は遅い,80,60,180,10,10,1,90,75,0,10,0,0,5,0,0,0,150,0,0,0,0,0,0,0,80
+data/img/bullet/saberNormal.png,data/img/bullet/saberHit.png,data/sound/bullet/saber.wav,サーベル,プラズマで剣を形成する,ただし敵の攻撃に当たりやすい,300,9,9,50,10,1,15,100,0,0,0,-90,0,0,0,20,100,0,0,0,0,0,0,0,20
+data/img/bullet/barrierNormal.png,data/img/bullet/barrierHit.png,data/sound/bullet/barruer.wav,バリアー,敵の攻撃を吸収する,何回かダメージ受けると消える,10,300,20,10,10,1,300,100,0,0,0,0,0,0,0,-2,100,0,0,0,0,0,-5,0,-2
+data/img/bullet/missileNormal.png,data/img/bullet/missileHit.png,data/sound/bullet/missile.wav,ミサイル,敵を追尾する弾を飛ばす,ただし弾数は少ない,10,180,10,10,10,10,60,20,0,20,0,0,360,0,0,0,100,0,0,0,0,0,-10,0,80
+data/img/bullet/typhoonNormal.png,data/img/bullet/typhoonHit.png,data/sound/bullet/typhoon.wav,タイフーン,広範囲に台風を起こす,攻撃力は低いが敵に逃げ場はない,1000,120,20,1,1,1,0,32,0,15,5,0,360,0,0,-10,32,0,5,0,0,0,-1,0,-10
+data/img/bullet/bombNormal.png,data/img/bullet/bombHit.png,data/sound/bullet/bomb.wav,ボム,広範囲に爆風を飛ばす,,20,,,10,10,,,,,,,,,,,,,,,,,,,,
+data/img/bullet/gasNormal.png,data/img/bullet/gasHit.png,data/sound/bullet/gas.wav,ガス,毒ガスをまき散らす,,10,,,10,10,,,,,,,,,,,,,,,,,,,,
+data/img/bullet/enemyNormal.png,data/img/bullet/enemyHit.png,data/sound/bullet/enemy.wav,エネミー,敵を追尾する下僕を出現させる,,3,,,10,10,,,,,,,,,,,,,,,,,,,,
+data/img/bullet/fireNormal.png,data/img/bullet/fireHit.png,data/sound/bullet/fire.wav,ファイアー,火を放射する,,100,,,10,10,,,,,,,,,,,,,,,,,,,,
+data/img/bullet/beamNormal.png,data/img/bullet/beamHit.png,data/sound/bullet/beam.wav,ビーム,ものすごい威力の弾を飛ばす,弾の小ささがネック,10,,,10,10,,,,,,,,,,,,,,,,,,,,
+data/img/bullet/impactNormal.png,data/img/bullet/impactHit.png,data/sound/bullet/impact.wav,インパクト,広範囲に衝撃波を飛ばす,,10,,,10,10,,,,,,,,,,,,,,,,,,,,
